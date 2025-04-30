@@ -30,6 +30,6 @@ git push origin $BRANCH
 
 # Return to the main branch
 echo "Switching back to main branch..."
-git checkout main
+git checkout master
 
 echo "Deployment successful!"
