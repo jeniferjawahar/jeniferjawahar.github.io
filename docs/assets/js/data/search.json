@@ -22,6 +22,30 @@
     "tags": "books",
     "date": "2025-05-01 11:33:00 +0800",
     "content": "A short summary on the book - Who moved my Cheese?"
+  },
+  {
+    "title": "3 - English new words",
+    "url": "/posts/3_newWords/",
+    "categories": "Blogging, English new words",
+    "tags": "words",
+    "date": "2025-04-03 11:33:00 +0800",
+    "content": "3 - English new words"
+  },
+  {
+    "title": "2 - English new words",
+    "url": "/posts/2_newWords/",
+    "categories": "Blogging, English new words",
+    "tags": "words",
+    "date": "2025-04-02 11:33:00 +0800",
+    "content": "2 - English new words"
+  },
+  {
+    "title": "1 - English new words",
+    "url": "/posts/1_newWords/",
+    "categories": "Blogging, English new words",
+    "tags": "words",
+    "date": "2025-04-01 11:33:00 +0800",
+    "content": "1 - English new words"
   }
   
 ]
