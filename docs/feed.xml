@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Jenifer Xavier</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-05-02T17:15:35+08:00</updated>
+  <updated>2025-05-07T13:14:49+08:00</updated>
   <author>
     <name>Jenifer Xavier</name>
     <uri>/</uri>
@@ -20,14 +20,40 @@
 
   
   <entry>
-    <title>1 - Idioms and Phrases</title>
-    <link href="/posts/idioms-and-phrases/" rel="alternate" type="text/html" title="1 - Idioms and Phrases" />
+    <title>2 - Idioms and Phrases</title>
+    <link href="/posts/2-idioms-and-phrases/" rel="alternate" type="text/html" title="2 - Idioms and Phrases" />
     <published>2025-05-02T11:33:00+08:00</published>
   
     <updated>2025-05-02T11:33:00+08:00</updated>
   
-    <id>/posts/idioms-and-phrases/</id>
-    <content type="text/html" src="/posts/idioms-and-phrases/" />
+    <id>/posts/2-idioms-and-phrases/</id>
+    <content type="text/html" src="/posts/2-idioms-and-phrases/" />
+    <author>
+      <name>Jenifer Xavier</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Idioms and Phrases" />
+    
+  
+
+  <summary>2 - Idioms and Phrases</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>1 - Idioms and Phrases</title>
+    <link href="/posts/1-idioms-and-phrases/" rel="alternate" type="text/html" title="1 - Idioms and Phrases" />
+    <published>2025-05-02T11:33:00+08:00</published>
+  
+    <updated>2025-05-02T11:33:00+08:00</updated>
+  
+    <id>/posts/1-idioms-and-phrases/</id>
+    <content type="text/html" src="/posts/1-idioms-and-phrases/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
