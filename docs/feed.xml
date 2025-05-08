@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>/</id>
+  <id>http://localhost:4000/</id>
   <title>Jenifer Xavier</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-05-07T21:52:20+08:00</updated>
+  <updated>2025-05-08T11:08:47+08:00</updated>
   <author>
     <name>Jenifer Xavier</name>
-    <uri>/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Jenifer Xavier </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>2 - Idioms and Phrases</title>
-    <link href="/posts/2-idioms-and-phrases/" rel="alternate" type="text/html" title="2 - Idioms and Phrases" />
+    <link href="http://localhost:4000/posts/2-idioms-and-phrases/" rel="alternate" type="text/html" title="2 - Idioms and Phrases" />
     <published>2025-05-02T11:33:00+08:00</published>
   
     <updated>2025-05-02T11:33:00+08:00</updated>
   
-    <id>/posts/2-idioms-and-phrases/</id>
-    <content type="text/html" src="/posts/2-idioms-and-phrases/" />
+    <id>http://localhost:4000/posts/2-idioms-and-phrases/</id>
+    <content type="text/html" src="http://localhost:4000/posts/2-idioms-and-phrases/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -47,13 +47,13 @@
   
   <entry>
     <title>1 - Idioms and Phrases</title>
-    <link href="/posts/1-idioms-and-phrases/" rel="alternate" type="text/html" title="1 - Idioms and Phrases" />
+    <link href="http://localhost:4000/posts/1-idioms-and-phrases/" rel="alternate" type="text/html" title="1 - Idioms and Phrases" />
     <published>2025-05-02T11:33:00+08:00</published>
   
     <updated>2025-05-02T11:33:00+08:00</updated>
   
-    <id>/posts/1-idioms-and-phrases/</id>
-    <content type="text/html" src="/posts/1-idioms-and-phrases/" />
+    <id>http://localhost:4000/posts/1-idioms-and-phrases/</id>
+    <content type="text/html" src="http://localhost:4000/posts/1-idioms-and-phrases/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -73,13 +73,13 @@
   
   <entry>
     <title>Summary - Who moved my Cheese</title>
-    <link href="/posts/who-moved-my-cheese/" rel="alternate" type="text/html" title="Summary - Who moved my Cheese" />
+    <link href="http://localhost:4000/posts/who-moved-my-cheese/" rel="alternate" type="text/html" title="Summary - Who moved my Cheese" />
     <published>2025-05-01T11:33:00+08:00</published>
   
     <updated>2025-05-01T11:33:00+08:00</updated>
   
-    <id>/posts/who-moved-my-cheese/</id>
-    <content type="text/html" src="/posts/who-moved-my-cheese/" />
+    <id>http://localhost:4000/posts/who-moved-my-cheese/</id>
+    <content type="text/html" src="http://localhost:4000/posts/who-moved-my-cheese/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -98,14 +98,14 @@
 
   
   <entry>
-    <title>3 - English new words</title>
-    <link href="/posts/3_newWords/" rel="alternate" type="text/html" title="3 - English new words" />
-    <published>2025-04-03T11:33:00+08:00</published>
+    <title>7 - English new words</title>
+    <link href="http://localhost:4000/posts/7_newWords/" rel="alternate" type="text/html" title="7 - English new words" />
+    <published>2025-04-04T11:33:00+08:00</published>
   
-    <updated>2025-04-03T11:33:00+08:00</updated>
+    <updated>2025-04-04T11:33:00+08:00</updated>
   
-    <id>/posts/3_newWords/</id>
-    <content type="text/html" src="/posts/3_newWords/" />
+    <id>http://localhost:4000/posts/7_newWords/</id>
+    <content type="text/html" src="http://localhost:4000/posts/7_newWords/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -118,20 +118,20 @@
     
   
 
-  <summary>3 - English new words</summary>
+  <summary>7 - English new words</summary>
 
   </entry>
 
   
   <entry>
-    <title>2 - English new words</title>
-    <link href="/posts/2_newWords/" rel="alternate" type="text/html" title="2 - English new words" />
-    <published>2025-04-02T11:33:00+08:00</published>
+    <title>6 - English new words</title>
+    <link href="http://localhost:4000/posts/6_newWords/" rel="alternate" type="text/html" title="6 - English new words" />
+    <published>2025-04-04T11:33:00+08:00</published>
   
-    <updated>2025-04-02T11:33:00+08:00</updated>
+    <updated>2025-04-04T11:33:00+08:00</updated>
   
-    <id>/posts/2_newWords/</id>
-    <content type="text/html" src="/posts/2_newWords/" />
+    <id>http://localhost:4000/posts/6_newWords/</id>
+    <content type="text/html" src="http://localhost:4000/posts/6_newWords/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -144,7 +144,7 @@
     
   
 
-  <summary>2 - English new words</summary>
+  <summary>6 - English new words</summary>
 
   </entry>
 
