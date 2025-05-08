@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Jenifer Xavier</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-05-08T11:11:35+08:00</updated>
+  <updated>2025-05-08T16:17:35+08:00</updated>
   <author>
     <name>Jenifer Xavier</name>
     <uri>/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>2 - Idioms and Phrases</title>
-    <link href="/posts/2-idioms-and-phrases/" rel="alternate" type="text/html" title="2 - Idioms and Phrases" />
+    <title>9 - Idioms and Phrases</title>
+    <link href="/posts/9-idioms-and-phrases/" rel="alternate" type="text/html" title="9 - Idioms and Phrases" />
     <published>2025-05-02T11:33:00+08:00</published>
   
     <updated>2025-05-02T11:33:00+08:00</updated>
   
-    <id>/posts/2-idioms-and-phrases/</id>
-    <content type="text/html" src="/posts/2-idioms-and-phrases/" />
+    <id>/posts/9-idioms-and-phrases/</id>
+    <content type="text/html" src="/posts/9-idioms-and-phrases/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -40,20 +40,20 @@
     
   
 
-  <summary>2 - Idioms and Phrases</summary>
+  <summary>9 - Idioms and Phrases</summary>
 
   </entry>
 
   
   <entry>
-    <title>1 - Idioms and Phrases</title>
-    <link href="/posts/1-idioms-and-phrases/" rel="alternate" type="text/html" title="1 - Idioms and Phrases" />
+    <title>8 - Idioms and Phrases</title>
+    <link href="/posts/8-idioms-and-phrases/" rel="alternate" type="text/html" title="8 - Idioms and Phrases" />
     <published>2025-05-02T11:33:00+08:00</published>
   
     <updated>2025-05-02T11:33:00+08:00</updated>
   
-    <id>/posts/1-idioms-and-phrases/</id>
-    <content type="text/html" src="/posts/1-idioms-and-phrases/" />
+    <id>/posts/8-idioms-and-phrases/</id>
+    <content type="text/html" src="/posts/8-idioms-and-phrases/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -66,20 +66,20 @@
     
   
 
-  <summary>1 - Idioms and Phrases</summary>
+  <summary>8 - Idioms and Phrases</summary>
 
   </entry>
 
   
   <entry>
-    <title>Summary - Who moved my Cheese</title>
-    <link href="/posts/who-moved-my-cheese/" rel="alternate" type="text/html" title="Summary - Who moved my Cheese" />
-    <published>2025-05-01T11:33:00+08:00</published>
+    <title>7 - Idioms and Phrases</title>
+    <link href="/posts/7-idioms-and-phrases/" rel="alternate" type="text/html" title="7 - Idioms and Phrases" />
+    <published>2025-05-02T11:33:00+08:00</published>
   
-    <updated>2025-05-01T11:33:00+08:00</updated>
+    <updated>2025-05-02T11:33:00+08:00</updated>
   
-    <id>/posts/who-moved-my-cheese/</id>
-    <content type="text/html" src="/posts/who-moved-my-cheese/" />
+    <id>/posts/7-idioms-and-phrases/</id>
+    <content type="text/html" src="/posts/7-idioms-and-phrases/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -88,24 +88,24 @@
     
     <category term="Blogging" />
     
-    <category term="Book Review" />
+    <category term="Idioms and Phrases" />
     
   
 
-  <summary>A short summary on the book - Who moved my Cheese?</summary>
+  <summary>7 - Idioms and Phrases</summary>
 
   </entry>
 
   
   <entry>
-    <title>7 - English new words</title>
-    <link href="/posts/7_newWords/" rel="alternate" type="text/html" title="7 - English new words" />
-    <published>2025-04-04T11:33:00+08:00</published>
+    <title>6 - Idioms and Phrases</title>
+    <link href="/posts/6-idioms-and-phrases/" rel="alternate" type="text/html" title="6 - Idioms and Phrases" />
+    <published>2025-05-02T11:33:00+08:00</published>
   
-    <updated>2025-04-04T11:33:00+08:00</updated>
+    <updated>2025-05-02T11:33:00+08:00</updated>
   
-    <id>/posts/7_newWords/</id>
-    <content type="text/html" src="/posts/7_newWords/" />
+    <id>/posts/6-idioms-and-phrases/</id>
+    <content type="text/html" src="/posts/6-idioms-and-phrases/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -114,24 +114,24 @@
     
     <category term="Blogging" />
     
-    <category term="English new words" />
+    <category term="Idioms and Phrases" />
     
   
 
-  <summary>7 - English new words</summary>
+  <summary>6 - Idioms and Phrases</summary>
 
   </entry>
 
   
   <entry>
-    <title>6 - English new words</title>
-    <link href="/posts/6_newWords/" rel="alternate" type="text/html" title="6 - English new words" />
-    <published>2025-04-04T11:33:00+08:00</published>
+    <title>5 - Idioms and Phrases</title>
+    <link href="/posts/5-idioms-and-phrases/" rel="alternate" type="text/html" title="5 - Idioms and Phrases" />
+    <published>2025-05-02T11:33:00+08:00</published>
   
-    <updated>2025-04-04T11:33:00+08:00</updated>
+    <updated>2025-05-02T11:33:00+08:00</updated>
   
-    <id>/posts/6_newWords/</id>
-    <content type="text/html" src="/posts/6_newWords/" />
+    <id>/posts/5-idioms-and-phrases/</id>
+    <content type="text/html" src="/posts/5-idioms-and-phrases/" />
     <author>
       <name>Jenifer Xavier</name>
     </author>
@@ -140,11 +140,11 @@
     
     <category term="Blogging" />
     
-    <category term="English new words" />
+    <category term="Idioms and Phrases" />
     
   
 
-  <summary>6 - English new words</summary>
+  <summary>5 - Idioms and Phrases</summary>
 
   </entry>
 
